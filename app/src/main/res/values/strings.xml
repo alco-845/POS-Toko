@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">POS Toko Plus Keuangan</string>
+    <string name="app_name2">pos toko plus keuangan</string>
+    <string name="barang">Barang</string>
+    <string name="barang2">Nama Barang</string>
+    <string-array name="metodeBayar">
+        <item>Tunai</item>
+    </string-array>
+
+    <string-array name="barang">
+        <item>Semua</item>
+        <item>Barang</item>
+    </string-array>
+
+    <string-array name="titipan">
+        <item>Kulakan</item>
+        <item>Titipan</item>
+    </string-array>
+
+    <string-array name="laporanpenjualan">
+        <item>Semua</item>
+        <item>Tunai</item>
+    </string-array>
+
+    <string-array name="laporankeuangan">
+        <item>Semua</item>
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+    </string-array>
+
+    <string-array name="type_bayar">
+        <item>Pilih Metode Bayar</item>
+        <item>Tunai</item>
+    </string-array>
+
+</resources>
